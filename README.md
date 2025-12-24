@@ -1,5 +1,8 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+WINRAJAN K 
+
+
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
